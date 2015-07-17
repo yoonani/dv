@@ -7,7 +7,11 @@ define("DATA_ROOT", "/home/yoonani/dv.data/");
 
 define("LIB", WEB_ROOT . "lib/");
 define("JS", LIB . "js/");
+
 define("D3", JS . "d3/d3.min.js");
 define("JQ_DIR", JS . "jQuery/");
 define("BS_DIR", JS . "bootstrap/");
+
+
+
 ?>
